@@ -14,9 +14,9 @@ A paginated API pipeline that collects gym listings across **8 Kerala cities** v
 - Kochi has the most unique gym listings (176), Malappuram the fewest (60)
 - Review counts are heavily concentrated: the top listing crosses 10,000 reviews (Capitol Mall, Kannur, 10,982) while most sit far below
 
-![Unique gym listings by city](assets/gyms-by-city.png)
-![Average gym rating by city](assets/avg-rating-by-city.png)
-![Top 10 gyms by number of reviews](assets/top-gyms-reviews.png)
+![Unique gym listings by city](assets/Gym_listings.jpeg)
+![Average gym rating by city](assets/Avg_Gym_rating.jpeg)
+![Top 10 gyms by number of reviews](assets/Top_Gyms.jpeg)
 
 ## Tools
 
